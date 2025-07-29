@@ -1,0 +1,6 @@
+aiogram==3.11.0
+g4f
+python-dotenv
+pydub
+requests
+pdfplumber  # برای خواندن PDF در آینده
